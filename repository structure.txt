@@ -1,0 +1,15 @@
+ecg-digitization-diagnosis/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── config.py
+├── src/
+│   ├── __init__.py
+│   ├── digitization.py
+│   ├── signal_processing.py
+│   ├── models.py
+│   ├── train.py
+│   └── evaluation.py
+└── notebooks/
+    └── ECG_Digitization_Colab.ipynb
