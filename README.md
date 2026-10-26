@@ -1,0 +1,2 @@
+# ECG-Record-Digitization-and-Heart-Disease-Diagnosis-using-CNN
+This repository presents a CNN-based framework for ECG record digitization and arrhythmia classification. It includes ECG frame extraction, waveform reconstruction, signal preprocessing, model training, and performance evaluation using ECG datasets. It supports reproducible research in biomedical signal processing and automated cardiac analysis.
